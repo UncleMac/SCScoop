@@ -1,0 +1,2 @@
+# SCScoop
+SC Scoop Newsletter
